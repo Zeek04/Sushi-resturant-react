@@ -1,0 +1,23 @@
+.page-header-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+}
+
+.page-header-container h1 {
+    color: #f3ead1;
+    font-size: 170px;
+    letter-spacing: 70px;
+    margin: 0;
+}
+
+.page-header-container p {
+    color: #f3ead1;
+    font-size: 50px;
+    letter-spacing: 20px;
+    margin: 10px 0;
+}
